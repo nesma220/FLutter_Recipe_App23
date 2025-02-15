@@ -22,7 +22,7 @@ class _CategoryScreenState extends State<CategoryScreen> {
     {'name': 'Dairy', 'image': 'assets/category4.png', 'items': '87 items'},
     {'name': 'Oats', 'image': 'assets/category5.png', 'items': '87 items'},
     {'name': 'Bread', 'image': 'assets/category6.png', 'items': '87 items'},
-    {'name': 'Rice', 'image': 'assets/icon3.png', 'items': '27 items'},
+    {'name': 'Rice', 'image': 'assets/category4.png', 'items': '27 items'},
     {'name': 'Egg', 'image': 'assets/category4.png', 'items': '120 items'},
   ];
 

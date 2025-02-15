@@ -13,9 +13,6 @@ class CartScreen extends StatelessWidget {
           Center(child: Text("Cart Screen"),),
         ],
       ),
-
-
-      
     );
 
     
